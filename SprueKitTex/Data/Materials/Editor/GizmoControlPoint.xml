@@ -1,0 +1,4 @@
+<material>
+    <technique name="Techniques/BasicVColUnlitAlphaNoDepth.xml" />
+    <texture unit="diffuse" name="Textures/Editor/GizmoIconBase.png" />
+</material>

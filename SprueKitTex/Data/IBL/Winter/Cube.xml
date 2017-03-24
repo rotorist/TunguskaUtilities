@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/Winter/posx.jpg" />
+    <face name="IBL/Winter/negx.jpg" />
+    <face name="IBL/Winter/posy.jpg" />
+    <face name="IBL/Winter/negy.jpg" />
+    <face name="IBL/Winter/posz.jpg" />
+    <face name="IBL/Winter/negz.jpg" />
+    <quality low="0" />
+</cubemap>

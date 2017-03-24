@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/Forest/posx.jpg" />
+    <face name="IBL/Forest/negx.jpg" />
+    <face name="IBL/Forest/posy.jpg" />
+    <face name="IBL/Forest/negy.jpg" />
+    <face name="IBL/Forest/posz.jpg" />
+    <face name="IBL/Forest/negz.jpg" />
+    <quality low="0" />
+</cubemap>

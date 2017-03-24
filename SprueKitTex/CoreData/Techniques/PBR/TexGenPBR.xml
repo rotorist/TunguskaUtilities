@@ -1,0 +1,15 @@
+<technique vs="TexGenPBRLitSolid" ps="TexGenPBRLitSolid" vsdefines="IBL" psdefines="DIFFMAP NORMALMAP METALLIC ROUGHNESS PBR IBL">
+    <pass name="base" />
+    <pass name="light" depthtest="equal" depthwrite="false" blend="add" />
+    <pass name="material" psdefines="MATERIAL" depthtest="equal" depthwrite="false" />
+    <pass name="deferred" psdefines="DEFERRED" blend="add"/>
+    <pass name="depth" vs="Depth" ps="Depth" />
+    <pass name="shadow" vs="Shadow" ps="Shadow" />
+    
+    <parameter name="UOffset" value="1 0 0 0" />
+	<parameter name="VOffset" value="0 1 0 0" />
+	<parameter name="MatDiffColor" value="1 1 1 1" />
+	<parameter name="MatEmissiveColor" value="0 0 0" />
+	<parameter name="MatEnvMapColor" value="1 1 1" />
+	<parameter name="MatSpecColor" value="1 1 1 1" />
+</technique>

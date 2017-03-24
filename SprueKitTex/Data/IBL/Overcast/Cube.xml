@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/Overcast/posx.jpg" />
+    <face name="IBL/Overcast/negx.jpg" />
+    <face name="IBL/Overcast/posy.jpg" />
+    <face name="IBL/Overcast/negy.jpg" />
+    <face name="IBL/Overcast/posz.jpg" />
+    <face name="IBL/Overcast/negz.jpg" />
+    <quality low="0" />
+</cubemap>

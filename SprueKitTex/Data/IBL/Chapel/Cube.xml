@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/Chapel/posx.jpg" />
+    <face name="IBL/Chapel/negx.jpg" />
+    <face name="IBL/Chapel/posy.jpg" />
+    <face name="IBL/Chapel/negy.jpg" />
+    <face name="IBL/Chapel/posz.jpg" />
+    <face name="IBL/Chapel/negz.jpg" />
+    <quality low="0" />
+</cubemap>

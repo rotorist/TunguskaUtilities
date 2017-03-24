@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/Day/posx.jpg" />
+    <face name="IBL/Day/negx.jpg" />
+    <face name="IBL/Day/posy.jpg" />
+    <face name="IBL/Day/negy.jpg" />
+    <face name="IBL/Day/posz.jpg" />
+    <face name="IBL/Day/negz.jpg" />
+    <quality low="0" />
+</cubemap>

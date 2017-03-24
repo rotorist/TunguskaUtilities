@@ -1,0 +1,9 @@
+<cubemap>
+    <face name="IBL/CityNight/posx.jpg" />
+    <face name="IBL/CityNight/negx.jpg" />
+    <face name="IBL/CityNight/posy.jpg" />
+    <face name="IBL/CityNight/negy.jpg" />
+    <face name="IBL/CityNight/posz.jpg" />
+    <face name="IBL/CityNight/negz.jpg" />
+    <quality low="0" />
+</cubemap>

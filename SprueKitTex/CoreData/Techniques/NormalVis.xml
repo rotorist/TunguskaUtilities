@@ -1,0 +1,3 @@
+<technique vs="NormalVis" ps="NormalVis" vsdefines="DIFFMAP VERTEXCOLOR NORMALVIS" psdefines="DIFFMAP VERTEXCOLOR NORMALVIS">
+    <pass name="base" />
+</technique>
