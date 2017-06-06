@@ -1,10 +1,10 @@
-[Mon Jan 09 01:45:01 2017] INFO: Opened log file SprueKitEditor.log
-[Mon Jan 09 01:45:01 2017] INFO: Created 3 worker threads
-[Mon Jan 09 01:45:01 2017] INFO: Added resource path C:/Unity/SprueKitTex/Data/
-[Mon Jan 09 01:45:01 2017] INFO: Added resource path C:/Unity/SprueKitTex/CoreData/
-[Mon Jan 09 01:45:01 2017] INFO: Set screen mode 640x480 windowed
-[Mon Jan 09 01:45:01 2017] INFO: Initialized input
-[Mon Jan 09 01:45:01 2017] INFO: Initialized user interface
-[Mon Jan 09 01:45:01 2017] INFO: Initialized renderer
-[Mon Jan 09 01:45:01 2017] INFO: Set audio mode 44100 Hz stereo interpolated
-[Mon Jan 09 01:45:01 2017] INFO: Initialized engine
+[Fri May 12 12:18:44 2017] INFO: Opened log file SprueKitEditor.log
+[Fri May 12 12:18:44 2017] INFO: Created 3 worker threads
+[Fri May 12 12:18:44 2017] INFO: Added resource path C:/Unity/TunguskaUtility/SprueKitTex/Data/
+[Fri May 12 12:18:44 2017] INFO: Added resource path C:/Unity/TunguskaUtility/SprueKitTex/CoreData/
+[Fri May 12 12:18:44 2017] INFO: Set screen mode 640x480 windowed
+[Fri May 12 12:18:44 2017] INFO: Initialized input
+[Fri May 12 12:18:44 2017] INFO: Initialized user interface
+[Fri May 12 12:18:44 2017] INFO: Initialized renderer
+[Fri May 12 12:18:44 2017] INFO: Set audio mode 44100 Hz stereo interpolated
+[Fri May 12 12:18:44 2017] INFO: Initialized engine

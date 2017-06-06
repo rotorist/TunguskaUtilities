@@ -41,7 +41,14 @@ namespace NodeEditorFramework.Standard
 
 		protected internal override void NodeGUI () 
 		{
-			GUILayout.Label (ConditionName);
+			if(!String.IsNullOrEmpty(ConditionName))
+			{
+				GUILayout.Label (ConditionName);
+			}
+			else if(!String.IsNullOrEmpty(StoryConditionName))
+			{
+				GUILayout.Label (StoryConditionName);
+			}
 
 			GUILayout.BeginHorizontal ();
 			GUILayout.BeginVertical ();
