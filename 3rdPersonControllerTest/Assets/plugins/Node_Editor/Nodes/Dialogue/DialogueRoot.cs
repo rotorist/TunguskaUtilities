@@ -190,6 +190,7 @@ namespace NodeEditorFramework.Standard
 
 				foreach(NodeInput response in node.Outputs[1].connections)
 				{
+					
 					//write each response node
 					DialogueResponse responseNode = (DialogueResponse)response.body;
 					_xmlWriter.WriteStartElement("response");
