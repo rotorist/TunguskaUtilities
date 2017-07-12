@@ -49,6 +49,7 @@
      <Compile Include="Assets\plugins\Editor\Node_Editor\NodeEditorWindow.cs" />
      <Compile Include="Assets\plugins\Editor\Node_Editor\RTCanvasCalculatorEditor.cs" />
      <Compile Include="Assets\plugins\Editor\Node_Editor\RTNodeEditorInspector.cs" />
+     <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\HansEppstein.xml" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\BlueBallMan.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\LineShader.shader" />
