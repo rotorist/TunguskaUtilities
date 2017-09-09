@@ -52,6 +52,8 @@
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Default.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Artyom.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\BlueBallMan.xml" />
+     <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\zsk_barn_legionnaires.xml" />
+     <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\SergeiKhripunov.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Bootleggers.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\LineShader.shader" />
      <None Include="Assets\plugins\Node_Editor\Utilities\link.xml" />
