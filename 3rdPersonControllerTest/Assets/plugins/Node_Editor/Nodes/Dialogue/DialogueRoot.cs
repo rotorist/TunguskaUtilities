@@ -86,7 +86,7 @@ namespace NodeEditorFramework.Standard
 			_xmlWriter.WriteEndElement();
 			_xmlWriter.WriteStartElement("next_node");
 
-			if(Outputs[1].connections[0] != null)
+			if(Outputs[1].connections.Count > 0 && Outputs[1].connections[0] != null)
 			{
 				DialogueNode dialogueNode = (DialogueNode)Outputs[1].connections[0].body;
 				_xmlWriter.WriteAttributeString("id", dialogueNode.DialogueNodeID.ToString());
@@ -103,7 +103,7 @@ namespace NodeEditorFramework.Standard
 				}
 			}
 
-			if(Outputs[1].connections[0] != null)
+			if(Outputs[1].connections.Count > 0 && Outputs[1].connections[0] != null)
 			{
 				SaveNode(Outputs[1].connections[0].body);
 			}

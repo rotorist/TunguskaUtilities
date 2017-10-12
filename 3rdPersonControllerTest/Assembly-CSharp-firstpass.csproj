@@ -137,6 +137,7 @@
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Razor.xml" />
      <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Sidorovich.xml" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\plugins\Node_Editor\Resources\DialogueXML\Cheslav.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
